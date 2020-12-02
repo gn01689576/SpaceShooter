@@ -5,3 +5,10 @@
 鍵盤上下左右操控，空白鍵發射子彈，QWER鍵分別發射4種彈幕
 
 ## 預覽
+1. 三發散射
+![image](https://github.com/gn01689576/SpaceShooter/blob/main/BulletCreat%202020-12-02%2020-33-34-647.gif)
+2.圓形彈幕
+![image](https://github.com/gn01689576/SpaceShooter/blob/main/BulletCreat%202020-12-02%2020-34-50-952.gif)
+![image](https://github.com/gn01689576/SpaceShooter/blob/main/BulletCreat%202020-12-02%2020-35-59-868.gif)
+![image](https://github.com/gn01689576/SpaceShooter/blob/main/BulletCreat%202020-12-02%2020-36-27-894.gif)
+![image](https://github.com/gn01689576/SpaceShooter/blob/main/BulletCreat%202020-12-02%2020-37-10-000.gif)
